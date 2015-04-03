@@ -59,7 +59,7 @@
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
-        chatLink: "https://plug.fleximedia.cz/" + fork + "/cs.json",
+        chatLink: "https://raw.githubusercontent.com/jakubman1/PlugDJTrewcraft/js/cs.json",
         maximumAfk: 120,
         afkRemoval: false,
         maximumDc: 300,
